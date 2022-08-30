@@ -1,0 +1,43 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    width: 25%;
+    background-color: rgb(177, 30, 30);
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+
+
+
+}
+
+.imagem-div {
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+ul {
+    font-size: 20px;
+}
+
+h1 {
+
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+ol {
+    font-size: 20px;
+}
+a{font-size: 17px; 
+    color: black;}
